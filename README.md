@@ -23,7 +23,8 @@ Mainactivity
 4.	Add a custom adapter for the recyclerview.  
 5.	Add a stadium class for holding data. The stadium list can be Array, Arraylist or List.
 Stadium list of worldcup 2022 is located in https://tr.wikipedia.org/wiki/2022_FIFA_D%C3%BCnya_Kupas%C4%B1#Stadyumlar 
-Final design will look like the image below.
+
+<br>Final design will look like the image below.<br>
 ![image](https://user-images.githubusercontent.com/61656752/173208293-62dea0fb-c315-4824-b9a2-11dbe1898aad.png)
 
 <br><b>Some Screenshots</b>
